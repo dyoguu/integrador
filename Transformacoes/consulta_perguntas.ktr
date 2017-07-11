@@ -475,7 +475,7 @@
     <hop>
       <from>Captura JSON de Resposta</from>
       <to>Interpreta JSON </to>
-      <enabled>Y</enabled>
+      <enabled>N</enabled>
     </hop>
     <hop>
       <from>Interpreta JSON </from>
@@ -490,7 +490,7 @@
     <hop>
       <from>Interpreta JSON </from>
       <to>Table output</to>
-      <enabled>Y</enabled>
+      <enabled>N</enabled>
     </hop>
   </order>
   <step>
@@ -521,7 +521,7 @@
       <name>C&#x3a;&#x5c;Users&#x5c;argen&#x5c;OneDrive&#x5c;Documentos&#x5c;appml&#x5c;pentaho&#x5c;workspace&#x5c;Perguntas</name>
       <is_command>N</is_command>
       <servlet_output>N</servlet_output>
-      <do_not_open_new_file_init>N</do_not_open_new_file_init>
+      <do_not_open_new_file_init>Y</do_not_open_new_file_init>
       <extention>json</extention>
       <append>N</append>
       <split>N</split>
@@ -766,7 +766,7 @@
     </partitioning>
     <applicationType>JSON</applicationType>
     <method>GET</method>
-    <url>https&#x3a;&#x2f;&#x2f;api.mercadolibre.com&#x2f;questions&#x2f;search&#x3f;seller_id&#x3d;260642196&#x26;access_token&#x3d;APP_USR-6056557011579984-070516-fc9cac6d5ed1e6fee089fdbacd1b812c__N_G__-260642196</url>
+    <url>https&#x3a;&#x2f;&#x2f;api.mercadolibre.com&#x2f;questions&#x2f;search&#x3f;seller_id&#x3d;260642196&#x26;access_token&#x3d;APP_USR-6056557011579984-070715-00ebcf01389597f79b385e94116bd39e__F_E__-260642196</url>
     <urlInField>N</urlInField>
     <dynamicMethod>N</dynamicMethod>
     <methodFieldName/>
