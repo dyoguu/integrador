@@ -1,0 +1,42 @@
+"{""title"": """;Produto  Teste 25_04 02;""",""category_id"": """;MLB189908;""",""price"": ";10.4;",""currency_id"": """;BRL;""",""available_quantity"":"; 3;",""buying_mode"": """;buy_it_now;""",""listing_type_id"":""";bronze;""",""condition"": """;used;""",""description"": """; <strong> Produto  Teste 25_04 02 </strong> MLB189908 <h1> 10.4 </h1> 3 buy_it_now bronze <i> used </i>;""",""pictures"":[{source:""";http://www.analuconfeccoes.com.br/app/webroot/img/imagens/1424_produto-teste1-635853422044692864.jpg;"""}]};"
+"{""title"": """;Sonar Humminbird Piranha MAX 155 Portátil - TESTE - Por favor, NÃO OFERTAR!;""",""category_id"": """;MLB189908;""",""price"": ";529.0;",""currency_id"": """;BRL;""",""available_quantity"":"; 50;",""buying_mode"": """;buy_it_now;""",""listing_type_id"":""";bronze;""",""condition"": """;new;""",""description"": """;"<h1>Piranha MAX 155 Portátil</h1>
+<ul>
+ <li>- Tela de 8,4” (diagonal) / Touch Screen / Resolução 1024 x 768 pixel</li>
+ <li>- Imagem colorida (TFT - 16,7 mm colors) - HD</li>
+ <li>- Leitura de velocidade pelo GPS do equipamento</li>
+ <li>- Processamento de sinal digital</li>
+ <li>- Com Down Imaging (Di), melhor definição de tela, visualização do fundo similar a ecografia</li>
+ <li>- Com Side Imaging (Si) visão lateral 180º</li>
+ <li>- Switchfire, adiciona e remove detalhes na tela por contraste</li>
+ <li>- NMEA 0183/2000 (built-In)</li>
+ <li>- Potência (RMS) 1000 Watts</li>
+ <li>- Humminbird AutoChart Live (8 horas de gravação na memória)</li>
+ <li>- Capacidade para armazenar 5000 waypoints e 200 trajetos</li>
+ <li>- Duas entradas de cartão (SD Card Slots)</li>
+ <li>- Entrada Ethernet, que permite comunicação com outros equipamentos</li>
+</ul>
+
+https://www.youtube.com/watch?v=LsIvo7Fe3ck
+
+<p>O produto possui garantia legal de 90 (noventa) dias, mais 275 (duzentos e setenta e cinco) diascontratuais, contra defeito de fabricação, a partir da data da compra validada na apresentação do Cupom Fiscal ou Nota Fiscal de compra, de acordo com o Código de Defesa do Consumidor LEI 8.078, de setembro de 1990.</p>
+
+<p>Importante: a garantia somente será aplicada após validação, do produto de reposição ser enviado ao cliente e recebimento do mesmo.</p>
+
+<p>
+Exclusão da garantia:
+1. Produtos sem nota fiscal de compra ou cupom fiscal;
+2. Produtos danificados por má utilização fora dos requisitos estabelecidos pelo fabricante, quedas, impactos, modificações, danos causados durante o seu manuseio e transporte, entre outros;
+3. Produtos adquiridos de terceiros (Pessoa Física), sem nota fiscal de compra ou cupom fiscal.
+</p>
+
+<p>
+Dicas de uso:
+- Não inverter as polaridades ao conectar na fonte de energia (bateria);
+- Utilizar bateria 12V;
+- Não deixar que as entradas e conectores venham a oxidar, evitando a passagem de corrente;
+- Após usar em água salgada, lave o equipamento com água doce corrente e aplique óleo spray no aparelho e conexões;
+- Não force o encaixe dos cabos no sonar para evitar que os pinos dos conectores entortem, evitando passagem de corrente;
+- Cuidado ao retirar e colocar a embarcação na água para não danificar o transducer caso ele esteja fixado externamente na embarcação;
+- Ao conectar o aparelho na fonte de energia (bateria) cuidado para não inverter as polaridade dos fios do sonar na fonte de energia (fio vermelho no positivo e preto negativo);
+- Não ligue o sonar fora da água com o cabo do transducer conectado ao equipamento. O sinal emitido pelo transducer diretamente no chão (e não na água), pode queimá-lo. Caso deseje ligar o sonar fora da água, desconecte o cabo do transducer e deixe o equipamento em modo simulação.
+</p>";""",""pictures"":[{source:""";https://tudodepesca.com.br/image/cache/catalog/155%20portatil%20-%20409660-1M_imagemA-500x500.jpg;"""}]};"
